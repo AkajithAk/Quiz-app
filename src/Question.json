@@ -1,0 +1,34 @@
+[
+    {
+    "qtn": "Select Apple in the option",
+    "option": [
+      {"ans": "Apple","correct":true},
+      {"ans": "Mango","correct": false},
+      {"ans": "grapes","correct": false}
+    ]
+    },
+    {
+    "qtn": "(2+2)-1=?",
+    "option": [
+      {"ans": "One","correct":false},
+      {"ans": "Two","correct": false},
+      {"ans": "Three","correct": true}
+    ]
+    },
+    {
+    "qtn": "which is having four wheels",
+    "option": [
+      {"ans": "Cycle","correct":false},
+      {"ans": "Car","correct": true},
+      {"ans": "Auto","correct": false}
+    ]
+    },
+    {
+    "qtn": "Choose White color",
+    "option": [
+      {"ans": "White color","correct":true},
+      {"ans": "Red Color","correct": false},
+      {"ans": "Grey color","correct": false}
+    ]
+    }
+]
